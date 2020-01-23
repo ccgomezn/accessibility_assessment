@@ -15,8 +15,6 @@ node crawler.js
 1. Home
 2. Login
 3. Register
-  1. Client
-  2. Voice Actor
 4. Profile Voice Actor
 5. Search Voice Actor
 6. Messagess Voice Actor
